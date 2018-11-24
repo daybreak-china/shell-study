@@ -1,0 +1,1 @@
+/home/djt/Workspace/ShellProjects/shell-study/shell-10-輸入輸出重定向
